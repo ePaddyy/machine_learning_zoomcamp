@@ -1,3 +1,3 @@
 # machine_learning_zoomcamp
 
-hello world
+Introduction to machine learning
